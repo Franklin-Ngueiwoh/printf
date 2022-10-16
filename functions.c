@@ -1,4 +1,4 @@
-#include "main.h"j
+#include "main.h"
 
 /************************* PRINT CHAR *************************/
 
